@@ -72,6 +72,7 @@ export class HomePage {
             }
             break;
           case 'android':
+          case 'ios':
             const id = Math.floor(Math.random() * 999999);
             const count = await this.checkFileExist(fileName);
 
@@ -108,7 +109,6 @@ export class HomePage {
               });
             });
             break;
-          case 'ios':
             break;
         }
       }

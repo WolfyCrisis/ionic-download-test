@@ -1,0 +1,70 @@
+PODS:
+  - ByteowlsCapacitorFilesharer (5.0.0):
+    - Capacitor
+  - Capacitor (5.6.0):
+    - CapacitorCordova
+  - CapacitorApp (5.0.6):
+    - Capacitor
+  - CapacitorCordova (5.6.0)
+  - CapacitorDialog (5.0.6):
+    - Capacitor
+  - CapacitorFilesystem (5.2.0):
+    - Capacitor
+  - CapacitorHaptics (5.0.6):
+    - Capacitor
+  - CapacitorKeyboard (5.0.7):
+    - Capacitor
+  - CapacitorLocalNotifications (5.0.6):
+    - Capacitor
+  - CapacitorStatusBar (5.0.6):
+    - Capacitor
+
+DEPENDENCIES:
+  - "ByteowlsCapacitorFilesharer (from `../../node_modules/@byteowls/capacitor-filesharer`)"
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorDialog (from `../../node_modules/@capacitor/dialog`)"
+  - "CapacitorFilesystem (from `../../node_modules/@capacitor/filesystem`)"
+  - "CapacitorHaptics (from `../../node_modules/@capacitor/haptics`)"
+  - "CapacitorKeyboard (from `../../node_modules/@capacitor/keyboard`)"
+  - "CapacitorLocalNotifications (from `../../node_modules/@capacitor/local-notifications`)"
+  - "CapacitorStatusBar (from `../../node_modules/@capacitor/status-bar`)"
+
+EXTERNAL SOURCES:
+  ByteowlsCapacitorFilesharer:
+    :path: "../../node_modules/@byteowls/capacitor-filesharer"
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorDialog:
+    :path: "../../node_modules/@capacitor/dialog"
+  CapacitorFilesystem:
+    :path: "../../node_modules/@capacitor/filesystem"
+  CapacitorHaptics:
+    :path: "../../node_modules/@capacitor/haptics"
+  CapacitorKeyboard:
+    :path: "../../node_modules/@capacitor/keyboard"
+  CapacitorLocalNotifications:
+    :path: "../../node_modules/@capacitor/local-notifications"
+  CapacitorStatusBar:
+    :path: "../../node_modules/@capacitor/status-bar"
+
+SPEC CHECKSUMS:
+  ByteowlsCapacitorFilesharer: f6a773825632d65d5404a34764c4a3fd857bb176
+  Capacitor: ebfc16cdb8116d04c101686b080342872da42d43
+  CapacitorApp: 024e1b1bea5f883d79f6330d309bc441c88ad04a
+  CapacitorCordova: 931b48fcdbc9bc985fc2f16cec9f77c794a27729
+  CapacitorDialog: 0f3c15dfe9414b83bc64aef4078f1b92bcfead26
+  CapacitorFilesystem: 02f9a9053b96e1881ba1fc98d846869413c195c2
+  CapacitorHaptics: 1fffc1217c7e64a472d7845be50fb0c2f7d4204c
+  CapacitorKeyboard: ce5e01064cf57a2c05b32565310713b7fe6cc6f9
+  CapacitorLocalNotifications: c2d8b14794064fd4814b1d6c4ddbac8029afa295
+  CapacitorStatusBar: 565c0a1ebd79bb40d797606a8992b4a105885309
+
+PODFILE CHECKSUM: ed5489b5d7611ce506a3fc208ad1e87f676b9534
+
+COCOAPODS: 1.12.0
